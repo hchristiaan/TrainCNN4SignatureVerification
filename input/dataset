@@ -1,1 +1,14 @@
-The input dataset is located at https://drive.google.com/drive/u/1/folders/1II8cT1qKEhA70GgNgkiItrIqGA00ebs0
+The input dataset is located at https://drive.google.com/drive/u/1/folders/1II8cT1qKEhA70GgNgkiItrIqGA00ebs0.
+You should download input.zip which should be unzipped to the your filesystem. 
+The structure of the directory should be
+- input:
+   - handwritten-signatures
+     - sample_Signatures
+        - forged
+        - genuine
+   - sigcomp-2009
+     - forgeries
+     - genuines
+   - sigcomp-2009-training
+     - forgeries
+     - genuines
